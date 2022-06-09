@@ -1,0 +1,170 @@
+[
+  {
+    "name": "11.0.0.v20220605122703",
+    "version": "11.0.0",
+    "date": "2022-06-05T12:34:17Z",
+    "expires": "2022-09-03T12:33:02.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2443020857",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98514831,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/261063996/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202320114,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/261063997/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98514835,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/261063998/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.0.0.v20220526190653",
+    "version": "11.0.0",
+    "date": "2022-05-26T19:16:13Z",
+    "expires": "2022-08-24T19:15:19.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2392547893",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98515045,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252965665/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202320159,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252965666/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98515045,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252965667/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.1.0.v20220526190513",
+    "version": "11.1.0",
+    "date": "2022-05-26T19:13:02Z",
+    "expires": "2022-08-24T19:11:44.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2392540142",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98514051,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252963259/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202319171,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252963260/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98514049,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/252963261/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.0.0.v20220522145947",
+    "version": "11.0.0",
+    "date": "2022-05-22T15:06:50Z",
+    "expires": "2022-08-20T15:05:29.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2366795744",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98497065,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248622710/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202302179,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248622711/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98497064,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248622712/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.0.0.v20220522144348",
+    "version": "11.0.0",
+    "date": "2022-05-22T14:54:33Z",
+    "expires": "2022-08-20T14:53:18.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2366758901",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98497936,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248618436/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202303057,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248618437/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98497933,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248618438/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.0.0.v20220522143323",
+    "version": "11.0.0",
+    "date": "2022-05-22T14:44:14Z",
+    "expires": "2022-08-20T14:42:56.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2366729016",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98496788,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248614300/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202301909,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248614301/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98496787,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248614302/zip"
+      }
+    ]
+  },
+  {
+    "name": "11.0.0.v20220522142954",
+    "version": "11.0.0",
+    "date": "2022-05-22T14:41:39Z",
+    "expires": "2022-08-20T14:40:21.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/2366699409",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98497874,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248613411/zip"
+      },
+      {
+        "os": "osx",
+        "size": 202303965,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248613412/zip"
+      },
+      {
+        "os": "win32",
+        "size": 98497873,
+        "url": "https://api.github.com/repos/tidev/titanium_mobile/actions/artifacts/248613413/zip"
+      }
+    ]
+  }
+]

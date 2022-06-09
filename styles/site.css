@@ -1,0 +1,164 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply text-base leading-6 mt-44 sm:mt-32 text-white;
+	background-color: #25272a;
+}
+
+a,
+.tisdk-link {
+	color: #f54b49;
+}
+
+.button {
+	@apply px-8 py-3 font-semibold rounded text-white;
+	background-color: #f54b49;
+}
+
+h2 {
+	@apply text-2xl;
+}
+
+p {
+	@apply my-4;
+	color: #979896;
+}
+
+.header {
+	@apply left-0 right-0 top-0 fixed z-10;
+	background-color: #25272a;
+}
+
+.titlebar {
+	@apply flex flex-row py-4 w-full;
+	line-height: 2.2rem;
+}
+
+.home-link {
+	@apply font-medium inline-flex flex-row;
+}
+
+.ti-logo {
+	@apply bg-white bg-no-repeat inline-block;
+	height: 35px;
+    mask: url('/ti-logo.svg') no-repeat 0 0/35px 35px;
+	width: 35px;
+}
+
+.home-link h1 {
+	@apply font-semibold ml-3;
+	font-size: 1.3rem;
+}
+
+.social {
+	@apply inline-flex items-center space-x-3 md:ml-5 lg:justify-end;
+}
+
+.navbar {
+	@apply font-light uppercase;
+	border-top: 1px solid #444;
+}
+
+.navbar a {
+	@apply mx-5 my-3 font-semibold;
+}
+
+h2,
+.home-link,
+.social-icon,
+footer,
+footer a {
+	@apply text-white;
+}
+
+.tisdk-link:hover,
+.navbar a:hover,
+footer a:hover {
+	@apply underline;
+}
+
+.term {
+	@apply flex-grow;
+}
+
+.term > div {
+	@apply mt-4 pl-5 py-5 pr-14 shadow-lg text-gray-100 text-sm font-mono subpixel-antialiased bg-gray-900 rounded-lg leading-normal overflow-x-auto overflow-y-hidden whitespace-nowrap;
+}
+
+.term-line {
+	@apply relative;
+}
+
+.term-comment {
+	@apply text-gray-500 italic select-none;
+}
+
+.term-prompt {
+	@apply text-green-400 select-none pr-2;
+}
+
+.download {
+	@apply text-white mt-4 mb-10 pb-10;
+	border-bottom: solid 1px #444;
+}
+
+.download h4 {
+	@apply text-2xl my-2 font-semibold;
+}
+
+.download-details {
+	@apply flex-grow whitespace-nowrap self-end;
+	color: #979896;
+}
+
+.download-details > li {
+	@apply inline-block mr-4 mb-4 text-sm;
+}
+
+.download-details > li > span {
+	@apply block;
+}
+
+.clipboard {
+	@apply cursor-pointer text-white rounded-md inline-flex align-middle items-center absolute;
+	color: #f54b49;
+	width: 30px;
+	height: 30px;
+	right: -36px;
+	top: -4px;
+}
+
+.clipboard:hover {
+	outline: solid 1px #f54b49;
+}
+
+.clipboard-icon {
+	@apply inline-block mx-auto;
+}
+
+.copied {
+	color: #f54b49;
+	outline: solid 1px #f54b49 !important;
+}
+
+.copied:before {
+	@apply absolute bg-gray-900 rounded-sm px-1;
+	color: #f54b49;
+	content: "Copied";
+	outline: solid 1px #f54b49;
+	right: 120%;
+}
+
+ul.branch-list {
+	@apply ml-4 text-sm;
+}
+
+ul.branch-list > li {
+	@apply mb-2;
+}
+
+li.branch-current {
+	@apply font-bold list-disc;
+}
