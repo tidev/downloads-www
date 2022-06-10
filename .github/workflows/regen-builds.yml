@@ -20,16 +20,6 @@ jobs:
       - name: Checkout titanium-builds
         uses: actions/checkout@v3
 
-      - name: Setup node
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-
-      # pretty sure this is not necessary
-      # - name: Install dependencies
-      #   run: npm install
-      #   if: steps.node-cache.outputs.cache-hit != 'true'
-
       - name: Retrieve the builds
         uses: tidev/titanium-builds-regen-action@v1
         with:
