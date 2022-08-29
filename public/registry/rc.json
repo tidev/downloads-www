@@ -1,5 +1,28 @@
 [
   {
+    "name": "11.1.0.RC",
+    "version": "11.1.0",
+    "date": "2022-08-29T15:11:42Z",
+    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_1_0_RC",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98168825,
+        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 203837130,
+        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98168826,
+        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "11.0.0.RC",
     "version": "11.0.0",
     "date": "2022-05-23T15:20:02Z",
