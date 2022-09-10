@@ -1,5 +1,77 @@
 [
   {
+    "name": "12.0.0.v20220910110216",
+    "version": "12.0.0",
+    "date": "2022-09-10T11:11:26Z",
+    "expires": "2022-12-09T11:09:30.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/3027684658",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98625849,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027684658/mobilesdk-12.0.0.v20220910110216-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 204327288,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027684658/mobilesdk-12.0.0.v20220910110216-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98625852,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027684658/mobilesdk-12.0.0.v20220910110216-win32.zip"
+      }
+    ]
+  },
+  {
+    "name": "12.0.0.v20220910084625",
+    "version": "12.0.0",
+    "date": "2022-09-10T08:54:04Z",
+    "expires": "2022-12-09T08:53:07.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/3027309696",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98624050,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027309696/mobilesdk-12.0.0.v20220910084625-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 204325491,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027309696/mobilesdk-12.0.0.v20220910084625-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98624054,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027309696/mobilesdk-12.0.0.v20220910084625-win32.zip"
+      }
+    ]
+  },
+  {
+    "name": "12.0.0.v20220910084410",
+    "version": "12.0.0",
+    "date": "2022-09-10T08:52:57Z",
+    "expires": "2022-12-09T08:51:23.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/3027307009",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98622563,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027307009/mobilesdk-12.0.0.v20220910084410-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 204323995,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027307009/mobilesdk-12.0.0.v20220910084410-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98622566,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3027307009/mobilesdk-12.0.0.v20220910084410-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "12.0.0.v20220907125306",
     "version": "12.0.0",
     "date": "2022-09-07T13:03:59Z",
