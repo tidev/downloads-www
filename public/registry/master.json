@@ -1,5 +1,29 @@
 [
   {
+    "name": "12.1.0.v20221222165122",
+    "version": "12.1.0",
+    "date": "2022-12-22T17:02:20Z",
+    "expires": "2023-03-22T17:00:43.000Z",
+    "url": "https://github.com/tidev/titanium_mobile/actions/runs/3759508294",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98868274,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3759508294/mobilesdk-12.1.0.v20221222165122-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 170260829,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3759508294/mobilesdk-12.1.0.v20221222165122-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98868276,
+        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3759508294/mobilesdk-12.1.0.v20221222165122-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "12.1.0.v20221217173705",
     "version": "12.1.0",
     "date": "2022-12-17T17:46:13Z",
@@ -1052,30 +1076,6 @@
         "os": "win32",
         "size": 98624190,
         "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3118328817/mobilesdk-12.0.0.v20220924124400-win32.zip"
-      }
-    ]
-  },
-  {
-    "name": "12.0.0.v20220921175015",
-    "version": "12.0.0",
-    "date": "2022-09-21T18:01:26Z",
-    "expires": "2022-12-20T17:59:48.000Z",
-    "url": "https://github.com/tidev/titanium_mobile/actions/runs/3099849094",
-    "assets": [
-      {
-        "os": "linux",
-        "size": 98623297,
-        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3099849094/mobilesdk-12.0.0.v20220921175015-linux.zip"
-      },
-      {
-        "os": "osx",
-        "size": 204304826,
-        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3099849094/mobilesdk-12.0.0.v20220921175015-osx.zip"
-      },
-      {
-        "os": "win32",
-        "size": 98623299,
-        "url": "https://nightly.link/tidev/titanium_mobile/actions/runs/3099849094/mobilesdk-12.0.0.v20220921175015-win32.zip"
       }
     ]
   }
