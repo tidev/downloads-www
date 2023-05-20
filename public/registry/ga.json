@@ -3,22 +3,22 @@
     "name": "12.1.1.GA",
     "version": "12.1.1",
     "date": "2023-04-28T15:16:14Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/12_1_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_1_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98822212,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 168103690,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98822210,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_1_GA/mobilesdk-12.1.1.GA-win32.zip"
       }
     ]
   },
@@ -26,22 +26,22 @@
     "name": "12.1.0.GA",
     "version": "12.1.0",
     "date": "2023-04-24T18:22:00Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/12_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98822868,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 168096442,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98822865,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_GA/mobilesdk-12.1.0.GA-win32.zip"
       }
     ]
   },
@@ -49,22 +49,22 @@
     "name": "12.0.0.GA",
     "version": "12.0.0",
     "date": "2022-12-30T18:07:57Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/12_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98361116,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 169719208,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98361116,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_GA/mobilesdk-12.0.0.GA-win32.zip"
       }
     ]
   },
@@ -72,22 +72,22 @@
     "name": "11.1.1.GA",
     "version": "11.1.1",
     "date": "2022-09-26T12:50:39Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_1_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/11_1_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98168511,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 203836751,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98168508,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_1_GA/mobilesdk-11.1.1.GA-win32.zip"
       }
     ]
   },
@@ -95,22 +95,22 @@
     "name": "11.1.0.GA",
     "version": "11.1.0",
     "date": "2022-09-08T15:46:14Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/11_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98166483,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 203833988,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98166481,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_GA/mobilesdk-11.1.0.GA-win32.zip"
       }
     ]
   },
@@ -118,22 +118,22 @@
     "name": "11.0.0.GA",
     "version": "11.0.0",
     "date": "2022-07-01T21:35:37Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/11_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98057934,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 201829321,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 98057933,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_GA/mobilesdk-11.0.0.GA-win32.zip"
       }
     ]
   },
@@ -141,22 +141,22 @@
     "name": "10.1.1.GA",
     "version": "10.1.1",
     "date": "2021-11-19T15:15:21Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/10_1_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/10_1_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 103139223,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 172468148,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 103139224,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_1_GA/mobilesdk-10.1.1.GA-win32.zip"
       }
     ]
   },
@@ -164,22 +164,22 @@
     "name": "10.1.0.GA",
     "version": "10.1.0",
     "date": "2021-09-28T16:23:22Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/10_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/10_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 103137171,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 172465555,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 103137169,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_1_0_GA/mobilesdk-10.1.0.GA-win32.zip"
       }
     ]
   },
@@ -187,22 +187,22 @@
     "name": "10.0.2.GA",
     "version": "10.0.2",
     "date": "2021-08-10T18:14:27Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/10_0_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/10_0_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 102644638,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 172281445,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102644637,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_2_GA/mobilesdk-10.0.2.GA-win32.zip"
       }
     ]
   },
@@ -210,22 +210,22 @@
     "name": "10.0.1.GA",
     "version": "10.0.1",
     "date": "2021-07-28T16:59:14Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/10_0_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/10_0_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 102634177,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 172267192,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102634172,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_1_GA/mobilesdk-10.0.1.GA-win32.zip"
       }
     ]
   },
@@ -233,22 +233,22 @@
     "name": "10.0.0.GA",
     "version": "10.0.0",
     "date": "2021-05-17T17:48:43Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/10_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/10_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 102377194,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 170077580,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102377197,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/10_0_0_GA/mobilesdk-10.0.0.GA-win32.zip"
       }
     ]
   },
@@ -256,22 +256,22 @@
     "name": "9.3.2.GA",
     "version": "9.3.2",
     "date": "2021-02-11T19:27:16Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_3_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_3_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 110565708,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 183440344,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 110565707,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_2_GA/mobilesdk-9.3.2.GA-win32.zip"
       }
     ]
   },
@@ -279,22 +279,22 @@
     "name": "9.3.1.GA",
     "version": "9.3.1",
     "date": "2021-01-26T18:34:04Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_3_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_3_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 110664710,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 183537096,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 110664709,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_1_GA/mobilesdk-9.3.1.GA-win32.zip"
       }
     ]
   },
@@ -302,22 +302,22 @@
     "name": "9.3.0.GA",
     "version": "9.3.0",
     "date": "2020-12-14T20:06:50Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_3_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_3_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 110623833,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 180521015,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 110623833,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_3_0_GA/mobilesdk-9.3.0.GA-win32.zip"
       }
     ]
   },
@@ -325,22 +325,22 @@
     "name": "9.2.2.GA",
     "version": "9.2.2",
     "date": "2020-10-29T20:12:45Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_2_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_2_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 112464423,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 182304690,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 112464421,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_2_GA/mobilesdk-9.2.2.GA-win32.zip"
       }
     ]
   },
@@ -348,22 +348,22 @@
     "name": "9.2.1.GA",
     "version": "9.2.1",
     "date": "2020-10-06T18:07:46Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_2_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_2_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 112460053,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 182301230,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 112460055,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_1_GA/mobilesdk-9.2.1.GA-win32.zip"
       }
     ]
   },
@@ -371,22 +371,22 @@
     "name": "9.2.0.GA",
     "version": "9.2.0",
     "date": "2020-09-23T19:49:27Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_2_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_2_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 113072435,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 182276237,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 113072436,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_2_0_GA/mobilesdk-9.2.0.GA-win32.zip"
       }
     ]
   },
@@ -394,22 +394,22 @@
     "name": "9.1.0.GA",
     "version": "9.1.0",
     "date": "2020-08-25T18:34:48Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 113574252,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 175430824,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 113574256,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_1_0_GA/mobilesdk-9.1.0.GA-win32.zip"
       }
     ]
   },
@@ -417,22 +417,22 @@
     "name": "9.0.3.GA",
     "version": "9.0.3",
     "date": "2020-06-10T16:51:30Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_0_3_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_0_3_GA",
     "assets": [
       {
         "os": "linux",
         "size": 116376534,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 177477953,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 116376539,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_3_GA/mobilesdk-9.0.3.GA-win32.zip"
       }
     ]
   },
@@ -440,22 +440,22 @@
     "name": "9.0.2.GA",
     "version": "9.0.2",
     "date": "2020-05-19T18:51:27Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_0_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_0_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 116373847,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 177429255,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 116373844,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_2_GA/mobilesdk-9.0.2.GA-win32.zip"
       }
     ]
   },
@@ -463,22 +463,22 @@
     "name": "9.0.1.GA",
     "version": "9.0.1",
     "date": "2020-04-16T18:05:58Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_0_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_0_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 116376902,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 177387758,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 116376905,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_1_GA/mobilesdk-9.0.1.GA-win32.zip"
       }
     ]
   },
@@ -486,22 +486,22 @@
     "name": "9.0.0.GA",
     "version": "9.0.0",
     "date": "2020-03-18T21:23:06Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/9_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/9_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 115417307,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 176430628,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 115417309,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/9_0_0_GA/mobilesdk-9.0.0.GA-win32.zip"
       }
     ]
   },
@@ -509,22 +509,22 @@
     "name": "8.3.1.GA",
     "version": "8.3.1",
     "date": "2020-01-17T19:13:23Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_3_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_3_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79047935,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 143813468,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 106795648,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_1_GA/mobilesdk-8.3.1.GA-win32.zip"
       }
     ]
   },
@@ -532,22 +532,22 @@
     "name": "8.3.0.GA",
     "version": "8.3.0",
     "date": "2019-11-25T17:37:58Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_3_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_3_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79044738,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 143808578,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 106796796,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_3_0_GA/mobilesdk-8.3.0.GA-win32.zip"
       }
     ]
   },
@@ -555,22 +555,22 @@
     "name": "8.2.1.GA",
     "version": "8.2.1",
     "date": "2019-10-25T18:00:29Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_2_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_2_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 78316312,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 143079928,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 105751213,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_1_GA/mobilesdk-8.2.1.GA-win32.zip"
       }
     ]
   },
@@ -578,22 +578,22 @@
     "name": "8.2.0.GA",
     "version": "8.2.0",
     "date": "2019-09-19T20:35:59Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_2_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_2_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79062972,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 143494814,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 106497874,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_2_0_GA/mobilesdk-8.2.0.GA-win32.zip"
       }
     ]
   },
@@ -601,22 +601,22 @@
     "name": "8.1.1.GA",
     "version": "8.1.1",
     "date": "2019-08-29T21:04:11Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_1_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_1_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 81025868,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 147101844,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 106579855,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_1_GA/mobilesdk-8.1.1.GA-win32.zip"
       }
     ]
   },
@@ -624,22 +624,22 @@
     "name": "8.1.0.GA",
     "version": "8.1.0",
     "date": "2019-08-13T17:04:42Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 81023921,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 147093936,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 106577908,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_1_0_GA/mobilesdk-8.1.0.GA-win32.zip"
       }
     ]
   },
@@ -647,22 +647,22 @@
     "name": "8.0.2.GA",
     "version": "8.0.2",
     "date": "2019-06-18T18:36:53Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_0_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_0_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 80229219,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 142981423,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 103700823,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_2_GA/mobilesdk-8.0.2.GA-win32.zip"
       }
     ]
   },
@@ -670,22 +670,22 @@
     "name": "8.0.1.GA",
     "version": "8.0.1",
     "date": "2019-05-15T20:59:56Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_0_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_0_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79846453,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 142569888,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 103316000,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_1_GA/mobilesdk-8.0.1.GA-win32.zip"
       }
     ]
   },
@@ -693,22 +693,22 @@
     "name": "8.0.0.GA",
     "version": "8.0.0",
     "date": "2019-03-14T21:14:41Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/8_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/8_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 77069591,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 139821421,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 100537630,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/8_0_0_GA/mobilesdk-8.0.0.GA-win32.zip"
       }
     ]
   },
@@ -716,22 +716,22 @@
     "name": "7.5.2.GA",
     "version": "7.5.2",
     "date": "2019-04-04T20:54:12Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_5_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_5_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 70707834,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 141725764,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 94012081,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_2_GA/mobilesdk-7.5.2.GA-win32.zip"
       }
     ]
   },
@@ -739,22 +739,22 @@
     "name": "7.5.1.GA",
     "version": "7.5.1",
     "date": "2019-02-26T23:08:24Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_5_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_5_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 70757980,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 141775912,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 94062226,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_1_GA/mobilesdk-7.5.1.GA-win32.zip"
       }
     ]
   },
@@ -762,22 +762,22 @@
     "name": "7.5.0.GA",
     "version": "7.5.0",
     "date": "2018-11-16T00:17:00Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_5_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_5_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 69196797,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 140213826,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 92502554,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_5_0_GA/mobilesdk-7.5.0.GA-win32.zip"
       }
     ]
   },
@@ -785,22 +785,22 @@
     "name": "7.4.2.GA",
     "version": "7.4.2",
     "date": "2018-12-20T00:18:19Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_4_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_4_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79165936,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 149438240,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102421561,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_2_GA/mobilesdk-7.4.2.GA-win32.zip"
       }
     ]
   },
@@ -808,22 +808,22 @@
     "name": "7.4.1.GA",
     "version": "7.4.1",
     "date": "2018-10-18T21:05:24Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_4_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_4_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79166001,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 149435905,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102421627,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_1_GA/mobilesdk-7.4.1.GA-win32.zip"
       }
     ]
   },
@@ -831,22 +831,22 @@
     "name": "7.4.0.GA",
     "version": "7.4.0",
     "date": "2018-09-17T20:44:42Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_4_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_4_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79165576,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 149433886,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102421200,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_4_0_GA/mobilesdk-7.4.0.GA-win32.zip"
       }
     ]
   },
@@ -854,22 +854,22 @@
     "name": "7.3.1.GA",
     "version": "7.3.1",
     "date": "2018-08-30T18:21:16Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_3_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_3_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79145159,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 141170873,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102400766,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_1_GA/mobilesdk-7.3.1.GA-win32.zip"
       }
     ]
   },
@@ -877,22 +877,22 @@
     "name": "7.3.0.GA",
     "version": "7.3.0",
     "date": "2018-08-17T18:23:14Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_3_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_3_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 79008999,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 141033518,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 102264605,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_3_0_GA/mobilesdk-7.3.0.GA-win32.zip"
       }
     ]
   },
@@ -900,22 +900,22 @@
     "name": "7.2.1.GA",
     "version": "7.2.1",
     "date": "2018-08-17T18:44:41Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_2_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_2_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 64409449,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 126084078,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 87579172,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_1_GA/mobilesdk-7.2.1.GA-win32.zip"
       }
     ]
   },
@@ -923,22 +923,22 @@
     "name": "7.2.0.GA",
     "version": "7.2.0",
     "date": "2018-06-14T22:24:50Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_2_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_2_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 64349342,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 126023973,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 87519083,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_2_0_GA/mobilesdk-7.2.0.GA-win32.zip"
       }
     ]
   },
@@ -946,22 +946,22 @@
     "name": "7.1.1.GA",
     "version": "7.1.1",
     "date": "2018-05-02T20:30:05Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_1_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_1_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 64348081,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 125943319,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 87509709,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_1_GA/mobilesdk-7.1.1.GA-win32.zip"
       }
     ]
   },
@@ -969,22 +969,22 @@
     "name": "7.1.0.GA",
     "version": "7.1.0",
     "date": "2018-03-15T00:02:53Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_1_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_1_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 64215730,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 125811528,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 87375939,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_1_0_GA/mobilesdk-7.1.0.GA-win32.zip"
       }
     ]
   },
@@ -992,22 +992,22 @@
     "name": "7.0.2.GA",
     "version": "7.0.2",
     "date": "2018-02-09T23:02:36Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_0_2_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_0_2_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98349078,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 158061241,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 121497519,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_2_GA/mobilesdk-7.0.2.GA-win32.zip"
       }
     ]
   },
@@ -1015,22 +1015,22 @@
     "name": "7.0.1.GA",
     "version": "7.0.1",
     "date": "2017-12-21T21:01:02Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_0_1_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_0_1_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98268412,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 157923262,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 121416852,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_1_GA/mobilesdk-7.0.1.GA-win32.zip"
       }
     ]
   },
@@ -1038,22 +1038,22 @@
     "name": "7.0.0.GA",
     "version": "7.0.0",
     "date": "2017-12-08T19:39:49Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/7_0_0_GA",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/7_0_0_GA",
     "assets": [
       {
         "os": "linux",
         "size": 98201453,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-linux.zip"
       },
       {
         "os": "osx",
         "size": 157854387,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-osx.zip"
       },
       {
         "os": "win32",
         "size": 121349894,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/7_0_0_GA/mobilesdk-7.0.0.GA-win32.zip"
       }
     ]
   }

@@ -3,22 +3,22 @@
     "name": "12.1.0.RC",
     "version": "12.1.0",
     "date": "2023-03-31T16:37:56Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/12_1_0_RC",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_1_0_RC",
     "assets": [
       {
         "os": "linux",
         "size": 98807245,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-linux.zip"
       },
       {
         "os": "osx",
         "size": 168043383,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-osx.zip"
       },
       {
         "os": "win32",
         "size": 98807245,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_1_0_RC/mobilesdk-12.1.0.RC-win32.zip"
       }
     ]
   },
@@ -26,22 +26,22 @@
     "name": "12.0.0.RC",
     "version": "12.0.0",
     "date": "2022-12-12T16:58:40Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/12_0_0_RC",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_0_0_RC",
     "assets": [
       {
         "os": "linux",
         "size": 98360581,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-linux.zip"
       },
       {
         "os": "osx",
         "size": 169718660,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-osx.zip"
       },
       {
         "os": "win32",
         "size": 98360580,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_0_0_RC/mobilesdk-12.0.0.RC-win32.zip"
       }
     ]
   },
@@ -49,22 +49,22 @@
     "name": "11.1.0.RC",
     "version": "11.1.0",
     "date": "2022-08-29T15:11:42Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_1_0_RC",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/11_1_0_RC",
     "assets": [
       {
         "os": "linux",
         "size": 98168825,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-linux.zip"
       },
       {
         "os": "osx",
         "size": 203837130,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-osx.zip"
       },
       {
         "os": "win32",
         "size": 98168826,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_1_0_RC/mobilesdk-11.1.0.RC-win32.zip"
       }
     ]
   },
@@ -72,22 +72,22 @@
     "name": "11.0.0.RC",
     "version": "11.0.0",
     "date": "2022-05-23T15:20:02Z",
-    "url": "https://github.com/tidev/titanium_mobile/releases/tag/11_0_0_RC",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/11_0_0_RC",
     "assets": [
       {
         "os": "linux",
         "size": 98039549,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-linux.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-linux.zip"
       },
       {
         "os": "osx",
         "size": 201810932,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-osx.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-osx.zip"
       },
       {
         "os": "win32",
         "size": 98039552,
-        "url": "https://github.com/tidev/titanium_mobile/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-win32.zip"
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/11_0_0_RC/mobilesdk-11.0.0.RC-win32.zip"
       }
     ]
   }
