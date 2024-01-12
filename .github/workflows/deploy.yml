@@ -41,12 +41,12 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
+          tags: ${{ secrets.TIDEV_REGISTRY_URL }}:${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Push to dokku
         uses: dokku/github-action@master
         with:
-          deploy_docker_image: ${{ steps.meta.outputs.tags }}
+          deploy_docker_image: ${{ secrets.TIDEV_REGISTRY_URL }}:${{ steps.meta.outputs.tags }}
           git_remote_url: 'ssh://dokku@titaniumsdk.com:22/downloads.titaniumsdk.com'
           ssh_private_key: ${{ secrets.DO_SSH_PRIVATE_KEY }}
