@@ -23,7 +23,7 @@ export default function Home({ latest }) {
 					<p>The easiest way to install these SDKs is to use the <a
 					href="https://titaniumsdk.com/guide/Titanium_SDK/Titanium_SDK_Guide/Titanium_Command-Line_Interface_Reference/#sdk"
 					rel="noreferrer" target="_blank">Titanium CLI</a>.
-					You may install as many SDK versions as you'd like.</p>
+					You may install as many SDK versions as you'd like!</p>
 				</div>
 				<div className="flex-1 term w-full">
 					<div>
