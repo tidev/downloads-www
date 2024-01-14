@@ -25,7 +25,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: tidev/titaniumsdk.com
+          images: tidev/downloads.titaniumsdk.com
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
