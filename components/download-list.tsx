@@ -50,13 +50,21 @@ export default function DownloadList({
 	builds: BuildInfo[],
 	className?: string
 }) {
+	const latestGA = builds.find(build => build.name.endsWith('GA'))
+
 	return (
 		<div className={className}>
 			{builds.map((build: BuildInfo, i: number) => {
 				const cmd = `ti sdk install ${branch ? `--branch ${branch} ` : ''}${build.name}`;
 				return (
 					<div className="download" key={`build_${i}`}>
-						<h4>{build.name}</h4>
+						{build.name === latestGA.name &&
+  						<span className="inline-flex items-center rounded-md bg-green-500/10 px-2 py-1 text-xs font-medium text-green-400 ring-1 ring-inset ring-green-500/20">Latest</span>							}
+						<div className='flex'>
+							<h4>
+								{build.name}
+							</h4>
+						</div>
 						<div className="flex flex-row flex-wrap xl:flex-nowrap gap-6 items-center">
 							<InstallCmd cmd={cmd} />
 							<ul className="download-details">
