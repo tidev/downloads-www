@@ -1,5 +1,28 @@
 [
   {
+    "name": "12.3.0.RC2",
+    "version": "12.3.0",
+    "date": "2024-02-12T17:43:41Z",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_3_0_RC2",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 96561417,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_3_0_RC2/mobilesdk-12.3.0.RC2-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 154180569,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_3_0_RC2/mobilesdk-12.3.0.RC2-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 96561416,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_3_0_RC2/mobilesdk-12.3.0.RC2-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "12.3.0.RC",
     "version": "12.3.0",
     "date": "2024-01-12T15:19:59Z",
