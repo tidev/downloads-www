@@ -1,5 +1,28 @@
 [
   {
+    "name": "12.4.0.RC",
+    "version": "12.4.0",
+    "date": "2024-07-10T16:56:57Z",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_4_0_RC",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 96727018,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_4_0_RC/mobilesdk-12.4.0.RC-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 154352278,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_4_0_RC/mobilesdk-12.4.0.RC-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 96727019,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_4_0_RC/mobilesdk-12.4.0.RC-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "12.3.1.RC",
     "version": "12.3.1",
     "date": "2024-05-30T18:45:32Z",
