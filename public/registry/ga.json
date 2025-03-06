@@ -1,5 +1,28 @@
 [
   {
+    "name": "12.6.3.GA",
+    "version": "12.6.3",
+    "date": "2025-03-06T17:32:35Z",
+    "url": "https://github.com/tidev/titanium-sdk/releases/tag/12_6_3_GA",
+    "assets": [
+      {
+        "os": "linux",
+        "size": 98026991,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_6_3_GA/mobilesdk-12.6.3.GA-linux.zip"
+      },
+      {
+        "os": "osx",
+        "size": 155792637,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_6_3_GA/mobilesdk-12.6.3.GA-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 98026993,
+        "url": "https://github.com/tidev/titanium-sdk/releases/download/12_6_3_GA/mobilesdk-12.6.3.GA-win32.zip"
+      }
+    ]
+  },
+  {
     "name": "12.6.2.GA",
     "version": "12.6.2",
     "date": "2025-02-03T17:33:25Z",
