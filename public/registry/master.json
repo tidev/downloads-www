@@ -1,5 +1,29 @@
 [
   {
+    "name": "12.7.0.v20250312213507",
+    "version": "12.7.0",
+    "date": "2025-03-12T21:41:26Z",
+    "expires": "2025-06-10T21:24:31.000Z",
+    "url": "https://github.com/tidev/titanium-sdk/actions/runs/13821832972",
+    "assets": [
+      {
+        "os": "osx",
+        "size": 148295603,
+        "url": "https://nightly.link/tidev/titanium-sdk/actions/runs/13821832972/mobilesdk-12.7.0.v20250312213507-osx.zip"
+      },
+      {
+        "os": "win32",
+        "size": 92451969,
+        "url": "https://nightly.link/tidev/titanium-sdk/actions/runs/13821832972/mobilesdk-12.7.0.v20250312213507-win32.zip"
+      },
+      {
+        "os": "linux",
+        "size": 92450674,
+        "url": "https://nightly.link/tidev/titanium-sdk/actions/runs/13821832972/mobilesdk-12.7.0.v20250312213507-linux.zip"
+      }
+    ]
+  },
+  {
     "name": "12.7.0.v20250312213312",
     "version": "12.7.0",
     "date": "2025-03-12T21:38:42Z",
