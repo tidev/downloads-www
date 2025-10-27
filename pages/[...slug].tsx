@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 	const branches = Object.keys(JSON.parse(fs.readFileSync('public/registry/branches.json', 'utf8')));
 	const now = Date.now();
 	const paths = branches.reduce((list, b: string) => {
-		if (b !== 'master') {
+		if (b !== 'main' && b !== 'master') {
 			const builds = (JSON.parse(fs.readFileSync(`public/registry/${b}.json`, 'utf8')) as BuildInfo[])
 				.filter(b => !b.expires || Date.parse(b.expires) > now);
 			if (builds.length) {
@@ -40,7 +40,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	const now = Date.now();
-	const branch = params.slug[1] || 'master';
+	const branch = params.slug[1] || 'main';
 	const branches = Object.keys(JSON.parse(fs.readFileSync('public/registry/branches.json', 'utf8')))
 		.filter(branch => {
 			const builds = (JSON.parse(fs.readFileSync(`public/registry/${branch}.json`, 'utf8')) as BuildInfo[])
@@ -55,7 +55,7 @@ export async function getStaticProps({ params }) {
 		props: {
 			branch,
 			branches: branches.reduce((obj, b: string) => {
-				obj[b] = b === 'master' ? '/builds' : `/builds/${b}`;
+				obj[b] = b === 'main' || b === 'master' ? '/builds' : `/builds/${b}`;
 				return obj;
 			}, {}),
 			builds
