@@ -54,7 +54,7 @@ export default function DownloadList({
 
 	return (
 		<div className={className}>
-			{builds.map((build: BuildInfo, i: number) => {
+			{builds.length ? builds.map((build: BuildInfo, i: number) => {
 				const cmd = `ti sdk install ${branch ? `--branch ${branch} ` : ''}${build.name}`;
 				return (
 					<div className="download" key={`build_${i}`}>
@@ -78,7 +78,7 @@ export default function DownloadList({
 						</div>
 					</div>
 				);
-			})}
+			}) : <p>No builds</p>}
 		</div>
     );
 }
