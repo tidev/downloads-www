@@ -78,7 +78,7 @@ export default function DownloadList({
 						</div>
 					</div>
 				);
-			}) : <p>No builds</p>}
+			}) : <p>No builds found</p>}
 		</div>
     );
 }

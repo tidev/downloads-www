@@ -11,8 +11,8 @@ export default function BuildsPage({ branch, branches, builds }) {
 				<p>If you find any issues, please <a href="https://github.com/tidev/titanium-sdk/issues/new/choose" rel="noreferrer" target="_blank">create an issue</a>. Thanks!</p>
 			</div>
 			<section className="flex flex-row flex-wrap md:flex-nowrap gap-10">
-				<BranchList branch={branch} branches={branches} className="flex-1" />
-				<DownloadList builds={builds} branch={branch} className="" />
+				<BranchList branch={branch} branches={branches} />
+				<DownloadList builds={builds} branch={branch} />
 			</section>
 		</>
 	);
@@ -45,7 +45,7 @@ export async function getStaticProps({ params }) {
 		.filter(branch => {
 			const builds = (JSON.parse(fs.readFileSync(`public/registry/${branch}.json`, 'utf8')) as BuildInfo[])
 				.filter(b => !b.expires || Date.parse(b.expires) > now);
-			return builds.length > 0;
+			return builds.length > 0 || branch === 'main';
 		});
 	const builds = JSON.parse(fs.readFileSync(`public/registry/${branch}.json`, 'utf8'))
 		.filter(b => !b.expires || Date.parse(b.expires) > now)
