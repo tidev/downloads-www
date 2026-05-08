@@ -6,7 +6,7 @@ import { BuildInfo } from '../lib/types';
 export default function BuildsPage({ branch, branches, builds }) {
 	return (
 		<>
-			<div className="px-5 py-2 mb-4 rounded-lg bg-opacity-10 bg-black">
+			<div className="px-5 py-2 mb-4 rounded-lg bg-white/5">
 				<p>Please note that CI Builds are <i>not</i> considered stable and should <i>not</i> be used in production.</p>
 				<p>If you find any issues, please <a href="https://github.com/tidev/titanium-sdk/issues/new/choose" rel="noreferrer" target="_blank">create an issue</a>. Thanks!</p>
 			</div>

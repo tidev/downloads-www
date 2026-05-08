@@ -8,7 +8,7 @@ export default function Home({ latest }) {
 	const [ copiedInstall, setCopiedInstall ] = useState(false);
 
 	const onCopy = (current, setter) => {
-		current && clearTimeout(current);
+		if (current) clearTimeout(current);
 		setter(setTimeout(() => setter(null), 2000));
 	};
 

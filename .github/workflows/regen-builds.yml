@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout downloads-www
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Retrieve the builds
         uses: tidev/titanium-builds-regen-action@v6

@@ -7,11 +7,9 @@ export default function Header() {
 			<div className='titlebar'>
 				<div className='container md:flex-row max-w-7xl mx-auto'>
 					<div className='flex flex-row justify-between mx-10'>
-						<Link href='/'>
-							<a className='home-link'>
-								<span className='ti-logo'/>
-								<h1>Titanium SDK Downloads</h1>
-							</a>
+						<Link href='/' className='home-link'>
+							<span className='ti-logo'/>
+							<h1>Titanium SDK Downloads</h1>
 						</Link>
 
 						<div className='social'>
