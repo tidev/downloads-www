@@ -39,5 +39,11 @@
     },
     "engines": {
         "node": ">=24"
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "@parcel/watcher",
+            "sharp"
+        ]
     }
 }
