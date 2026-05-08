@@ -1,6 +1,12 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+	--color-blue-500: #53B7E9;
+	--color-blue-700: #198AC2;
+	--color-neutral-900: #25272A;
+	--color-neutral-800: #23272B;
+}
 
 body {
 	@apply text-base leading-6 mt-44 sm:mt-32 text-white;
@@ -13,7 +19,7 @@ a,
 }
 
 .button {
-	@apply px-8 py-3 font-semibold rounded text-white;
+	@apply px-8 py-3 font-semibold rounded-sm text-white;
 	background-color: #f54b49;
 }
 
@@ -80,7 +86,7 @@ footer a:hover {
 }
 
 .term {
-	@apply flex-grow;
+	@apply grow;
 }
 
 .term > div {
@@ -109,7 +115,7 @@ footer a:hover {
 }
 
 .download-details {
-	@apply flex-grow whitespace-nowrap self-end;
+	@apply grow whitespace-nowrap self-end;
 	color: #979896;
 }
 
@@ -144,7 +150,7 @@ footer a:hover {
 }
 
 .copied:before {
-	@apply absolute bg-gray-900 rounded-sm px-1;
+	@apply absolute bg-gray-900 rounded-xs px-1;
 	color: #f54b49;
 	content: "Copied";
 	outline: solid 1px #f54b49;

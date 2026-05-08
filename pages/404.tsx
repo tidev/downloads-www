@@ -15,10 +15,8 @@ export default function FourOhFour() {
                     <p className='text-3xl'>Sorry, looks like you're lost</p>
                     <p>Maybe this page used to exist or you just spelled something wrong.</p>
                     <p>Chances are you spelled something wrong, so can you double check the URL?</p>
-                    <Link href='/'>
-                        <a className='button'>
-                            Back to homepage
-                        </a>
+                    <Link href='/' className='button'>
+                        Back to homepage
                     </Link>
                 </div>
             </div>
